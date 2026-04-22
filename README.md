@@ -55,4 +55,4 @@ Each course subdirectory has its own README with instructions for reproducing it
 
 - Lynch, K. M., & Park, F. C. (2017). *Modern Robotics: Mechanics, Planning, and Control*. Cambridge University Press. [modernrobotics.org](http://modernrobotics.org)
 - [Modern Robotics Specialization on Coursera](https://www.coursera.org/specializations/modernrobotics) — Northwestern University
-- [`modern_robotics`](https://github.com/NxRLab/ModernRobotics) — official companion Python library
+- [`ModernRobotics`](https://github.com/NxRLab/ModernRobotics) — official companion Python library
