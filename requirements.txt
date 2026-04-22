@@ -1,0 +1,10 @@
+numpy>=1.24
+matplotlib>=3.7
+ipywidgets>=8.0
+jupyterlab>=4.0
+modern_robotics>=1.1
+
+# Deferred: require MSVC Build Tools on Windows (or install via conda-forge).
+# Reinstate when reaching chapters that actually use them.
+# roboticstoolbox-python>=1.1
+# spatialmath-python>=1.1
