@@ -15,23 +15,6 @@ A public log of my work through the specialization. For each course, I publish: 
 - **Demos** — short videos or GIFs of key concepts (e.g., robot arm forward kinematics, trajectory generation, feedback control)
 - **Visualizations** — plots and diagrams that illustrate the mechanics
 
-## Status
-
-Currently working through **Course 1: Foundations of Robot Motion**.
-
-## Roadmap
-
-One section per course. Each course gets its own subdirectory with assignment outputs, demos, and a short write-up of what was covered.
-
-| Course | Title | Textbook Chapters | Status |
-| ------ | ----- | ----------------- | ------ |
-| 1 | Foundations of Robot Motion | 2, 3 | ⏳ In progress |
-| 2 | Robot Kinematics | 4, 5, 6, 7 | ⬜ Planned |
-| 3 | Robot Dynamics | 8, 9 | ⬜ Planned |
-| 4 | Robot Motion Planning and Control | 10, 11 | ⬜ Planned |
-| 5 | Robot Manipulation and Wheeled Mobile Robots | 12, 13 | ⬜ Planned |
-| 6 | Capstone — Mobile Manipulation | — | ⬜ Planned |
-
 ## Stack
 
 - Python 3.10+
